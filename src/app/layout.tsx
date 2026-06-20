@@ -1,8 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
+const siteUrl = "https://monroejack1.github.io/ambru.cc";
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ambru.cc"),
+  metadataBase: new URL(siteUrl),
   title: "AMBRU.CC | AI, Marketing and Market Intelligence Consulting",
   description:
     "AMBRU.CC is the personal consulting and strategy studio of Cosmin Claudiu, helping businesses use AI, market research, statistics, automation and strategic marketing to grow smarter.",
@@ -10,7 +12,7 @@ export const metadata: Metadata = {
     title: "AMBRU.CC | AI • Marketing • Strategy",
     description:
       "Premium consulting, coaching and strategic project implementation for smarter business growth.",
-    url: "https://ambru.cc",
+    url: siteUrl,
     siteName: "AMBRU.CC",
     type: "website",
   },
