@@ -2,6 +2,12 @@
 
 A premium dark-first personal consulting website for **AMBRU.CC**, the professional brand of Cosmin Claudiu.
 
+## Public GitHub Pages URL
+
+The site is configured for the GitHub Pages project URL:
+
+https://monroejack1.github.io/ambru.cc/
+
 ## Stack
 
 - Next.js App Router
